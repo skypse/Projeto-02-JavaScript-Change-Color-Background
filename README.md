@@ -1,4 +1,4 @@
-# Mudar Cor de Fundo
+# Mudar Cor de Fundo 🎨
 
 https://github.com/skypse/Projeto-03-JavaScript-Change-Color-Background/assets/97822775/eddbf877-1074-4f86-8f7d-aabea6604dd1
 
